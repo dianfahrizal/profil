@@ -30,10 +30,6 @@ h3 {
   padding-top: 100px;
 }
 
-.middle-container {}
-
-.bottom-container {}
-
 .pro {
   text-decoration: underline;
 }
@@ -50,6 +46,26 @@ h3 {
   bottom: 300px;
 }
 
+.skill-row {
+  width: 50%;
+  margin : 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
 .footer-link {
   color: #11999E;
+}
+
+.laptop-img {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.chilli-img {
+  width :25%;
+  float: right;
+  padding-right: 30px;
 }
